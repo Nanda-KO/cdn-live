@@ -3,9 +3,9 @@ name: Update Live TV Playlist
 on:
   # Allows you to trigger it manually from the Actions tab
   workflow_dispatch: 
-  # Runs automatically every 10 minutes
+  # Runs automatically every 20 minutes
   schedule:
-    - cron: "0/10 * * * *"    
+    - cron: "*/20 * * * *"    
 
 # Give the action permission to commit files back to your repo
 permissions:
