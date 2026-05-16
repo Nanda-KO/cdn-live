@@ -1,1 +1,121 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Arsenal Tula vs Rodina Moskva (Match TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/35301.png" group-title="Soccer",[Soccer] Arsenal Tula vs Rodina Moskva (Match TV)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-tv/playlist.m3u8?token=2c12f2184808f7af10a7da38b11c9c3d29e73da933b369d85201754de3167a74.1778928479.ed6ddb0dfc89f11c23ac657f86f35c20.e4038d6b07cc27ce1e2c00b0c29b53fc.d824c349b3f73e0473c155f5a6f9ddef&signature=3de6eb67bb64745a835aa15f5a6ea3d019e1aa1a7d0936f330d68fb6b34478e1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Academico Viseu vs Sporting CP II (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Academico Viseu vs Sporting CP II (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=ab5b6109e1a96cc70cfe15ef19042a2dca28757ee04d37ea9a9703dc95445a5c.1778928480.1454a976db2c57bc1dfb7a3c45f34ba6.e4ac94acad73201a0ed1b49b1d16e096.00c4cf6a34a32a03b2d4b9e746f3d11c&signature=2b23b6068aaa87a948c6717a766c03efe9e8789bdfb617e76fa18c337dd0a38b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Torreense vs Vizela (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/25787.png" group-title="Soccer",[Soccer] Torreense vs Vizela (Sport TV 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=ffa45d042790a5c7151f51a4f1840b7d4137bd8048511c5dc913432f9a387462.1778928481.4fc08269dc4739e6efbe38dd72d862e0.e71e868d423b37f2adc78e14f35f22ca.87ab020b7cd047ca01460c66bd433c79&signature=4cc755d7108eadb16c3071b77d9be7731a68f9503bb1d36305687e64c411379b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Celtic vs Hearts (CBS Sports Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (CBS Sports Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=27e9a7a613e5770a500ff701596d2c058c575548461a350a29b00665f2b904f9.1778928482.77029af2c88ace6617a6d2d1a259d2f0.ed5773b7f22b4c98db9d9cb483c95387.8920bbad7af9a1dbbff6c70a1a503ede&signature=f1a0eaf06036d8b8b5dda65310ad8295648f7843d7711191ad4a688ca6511ffc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Celtic vs Hearts (Sky Sports Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sky Sports Football)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+football&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+football&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-football/playlist.m3u8?token=0f01c22ea26d948beb17ed3c0b66634c662ffb4a81cc5e0b8c257c4d642501bb.1778928482.a4f185247c7cb79f33b4574825587da6.614464d32eef28cf77f094b47e44efc1.8904c33c4ee80521dda7f82389d8eb04&signature=f4fffa16e5eb3bda5acc4a105f85f310df1fa5af0e939f30367c54643f581bf6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Celtic vs Hearts (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ef97ba26af026c7e85f60ea1b0feab8849e1d0b8ba09af2f2fea5950824f8b48.1778928483.2b17180d0421156d1c93582b13398186.107fef296673d2806000b6aece9cb02c.b05e87974759a4b7fc64016e831d2b72&signature=7acbf67f4355820b6e710cfc81c9efa05143ab3e1baa0bdff70cfa85218f175f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Celtic vs Hearts (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (SportDigital Fussball)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=7e6ed6a699bba0de51045e1f982a8cb9b176fdcd0d0433bcc581f6546dfba692.1778928484.61d4c9ab03d794cbacaf58153be5b672.f146c03f7a573071d75d6cf5c229bbe9.adc9510dce76b8c0f9a6020176b2ba8e&signature=23b7c1881574f1af1d22849e54557ece79d3808083e2eb969490972871bc0777|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Celtic vs Hearts (Cosmote Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Cosmote Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-3/playlist.m3u8?token=29247543b81fab023da7f2129bfbe1534442753ab4077f7671869dff1e7db3d3.1778928484.2ac15095b326b08ad09be4c0bb833c65.14cb503624a88acceef7e0cefc30d70d.986aa157ea6d0a28b50de1eef5fa6cba&signature=474fcf19642caf7b6c9d0990f463d70813a16241df9e98df2704d796cdabdfb2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Celtic vs Hearts (Polsat Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Polsat Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport-2/playlist.m3u8?token=5b0da2e3332e597bfd832d1393893fe81bc0e5ad64a533e9ca14cd6bdb73d484.1778928485.703e8e1b7daba5271c897372fd209102.112894fa0df18a3f93c317beebb1c955.72d510f8a77c879df5b14cce59ae3e8b&signature=e061f8261d683407de1791f81f61cc2d6d9246561ad47be460fa1c217dc3fde3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Celtic vs Hearts (Ring)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Ring)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ring&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ring&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-ring/playlist.m3u8?token=20d0d35a6e0dbf392ff87990f6687e35fcd8620fdc19d15e79c430ba6c779852.1778928486.b092474b93e06d3f9e5ee59763655bd1.a423db163bbd2a1db09415e44d5cc3a7.b565c0cb5454fd502b5c9cbeb2d8fd0e&signature=08685acf4865bbf4105fdfa47b832738529e9d5f7aee63a0d4778f9a8ef32abd|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Celtic vs Hearts (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Arena 1 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=4aa7a072864ff08e265ae9d345cc03471773304f206a22ed5ed40b765f647835.1778928486.fec5f6f44861adb4ab85693a181b3a16.de2ae7286d61f26be4eed048a58a481e.d8038ce058493e2c37d394689a334432&signature=e756401d7fb55070919b540996521e65aa3aa8bf98b5ca8daa470a4fb0b2e641|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Celtic vs Hearts (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Digi Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=59d6cc3f1d2d0a3c6b3952425314ab68d38aa68a09823109f3fb2541a62433b9.1778928487.da43a1746c123a9499c1332c3a7a759d.0c86486d26c48bf12c4f194606cf8714.d1e06c7e9befcc07776785eaabaa924f&signature=dc1e95210c9b5cf44efaaccede1b1ba530ec120b6f0c8635dfd43d4dee89171f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Celtic vs Hearts (TRT Spor)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (TRT Spor)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-spor/playlist.m3u8?token=2ca44c8f70668fc273edfb9173749b7060f625ae5b86c6a0ed43b2b7572cdb84.1778928488.52f782f03a211182e109649790ae89b0.92cc043f6c960cb2fc654d2c9fd4ea95.0639b83d07c9c6931d4f351aded32937&signature=3f1cf27733c55d3ca5a2882002acdca6e4a8b51395fef38056a675e7b7329a38|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Celtic vs Hearts (Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2352.png" group-title="Soccer",[Soccer] Celtic vs Hearts (Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=3ca7a1b128f0b4ae2e557014bf421b579b14d791e5cba7d0455416d566a6cc0f.1778928488.8eaa21ff1e09580d36cd2f76e7291919.d0721a0d504ec0697c080bf03c09cd17.be169537c1505ac63c57dc637964db3d&signature=9d6721c5b28c8ba3de32bc26dbe07c394825702f1f589659342126ab35304336|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=c2c4fbf516f46af0d2f601be38392f28ebce3b92b60af1b091ff0e0458cd3755.1778928489.73a1c80e98ecda6659eb6ab633cc45c7.7bf6e65c9e4eaa354123098faef3fb1b.da7f9c463f224dbec4ff289701372513&signature=2747077575e4492b15e0d782d10c41102b254e758a658d9943777cc375fe0a3d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=39c1deb325d644e8c67deeadacf6d2972369f3ed53c68c5a5b0a66cbea694e04.1778928490.df4c0166fcc5832f1b6e27e9df8e1c6d.e091c07fb4c07470817775555dd4fddc.ab69234a10c6faa2580b84310a6ad9a5&signature=6c3cbf0016aaec9d23defdfed84e39227206c19a82c51cb801e190d9f10bf2f2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=a163bff35f1a514b0657ede5bd32febe240492c808eaf75aebd77db4ada615aa.1778928490.8c91c15955b0d41e0b4c3a21dc8ef02b.0021221c5258ff9438b1c9f7335f8fb0.e5f5fe6a889f0c8b91799120b1d0c2b2&signature=c123f151750a734a4864e6b834f2cdb91723cc0af63c0aaf15c28bc701f09ad1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=3fb8ff3260e94ce318d09490c288c0913818fe747bbf8dd52ede532d1b7716dc.1778928491.e9fcf34596ed6e9cb38d3c526bc8caf4.5919c13455300586ea62a6fa0526ee06.9743eac34ddcb37b6b5aed05601c1586&signature=899d4bd7cee4042af76cb8d3d09882c0dc66b4dbe2e42b625f41be5cc680f9b5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=77e71d1e22c0a105d7d25eb504b8028512c4dd99048e4841614f1df753576c13.1778928491.be64cfa04958ab0b5cb495c62b95e616.7252bb20bb207f53738618f206380d85.8970cb10e710adeb93d43cde69f048ba&signature=5219396d79becf4881e3076ef9c12a35f788341928716ae6f8d55d1e8522d8c9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] One Day International Women : England W vs New Zealand W vs  (SuperSport Variety 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+variety+2&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-variety-2/playlist.m3u8?token=94023911e76d29c0516e8d52534dd126ba3f0993bbf4a9c03cb947db948ca2e0.1778928492.d10c8f1239295506404fd99eaf97efd2.036f766fbd73bc2853205933a8a3d5cb.3539b5969c55cfade77640063fe01bf7&signature=766736d9aebbc5d8d8bbf06b3656cbef46f45baa1028c107f0bf31daa6c74900|x-forwarded-for:77.238.79.111
+
