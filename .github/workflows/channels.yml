@@ -5,7 +5,7 @@ on:
   workflow_dispatch: 
   # Runs automatically every 20 minutes
   schedule:
-    - cron: '*/10 * * * *'    
+    - cron: '0 */1 * * *'    
 
 # Give the action permission to commit files back to your repo
 permissions:
@@ -20,8 +20,8 @@ jobs:
       uses: actions/checkout@v4
     - run: echo "Cron job is running"
       with:
-        # Fetch depth 0 ensures we get the full git history for a clean rebase
-        fetch-depth: 0
+      # Fetch depth 0 ensures we get the full git history for a clean rebase
+      fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v5
