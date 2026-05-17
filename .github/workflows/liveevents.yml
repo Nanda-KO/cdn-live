@@ -1,12 +1,12 @@
 name: Update Stream99 Playlist
 
 on:
-  # Allows you to trigger it manually from the Actions tab
-  workflow_dispatch: 
   # Runs automatically every 3 hours. 
   # (Cron format: Minute Hour Day Month DayOfWeek)
   schedule:
-    - cron: '*/59 * * * *'    
+    - cron: '*/20 * * * *'    
+  # Allows you to trigger it manually from the Actions tab
+  workflow_dispatch: 
 
 # Give the action permission to commit files back to your repo
 permissions:
