@@ -1,1 +1,103 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] UD Oliveirense vs Felgueiras 1932 (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21831.png" group-title="Soccer",[Soccer] UD Oliveirense vs Felgueiras 1932 (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=0ec6a47936b172f226de09bd509bf8287d772943f38730be6bde1edb5302a7be.1779008477.6d622f57e1c428f912c5d492f7d37572.3cf492ab357eb2210b90b60c190586ea.b4e5d36b1630097ca2aada1d4d4271d6&signature=91b05e5fa31ddd27ea198ac443d4bc52d995ab5ac70f41b580e000b800a58a08|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=0b4987692ac71c47f143f29de09d98b14a41df909570272a7fde2567ed2bf288.1779008478.9da881481952ddbdf6007354191c0fa1.e7c7b8f31a57ea287e9092a7abdb496c.e2a82cce6e199562ea953441e1c1df7c&signature=b08682d4f5809208f998f6f869b67295d13c28b7d6b67cebbd0476c53466c26b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=92b4a1acc41ca90e3c539956292f020f71936715cf78dcfd54283eb42b4d2ebf.1779008478.2ecc38b0c6f3b524afb0bd1d219bb62f.6176f81ed292adf25a1765a6f4501bde.640b58382c450b0698b4a4d3d2ed6c38&signature=7337d584ec61fc1a892003f40c4b103174e24823a23ada0abe2b237146e25fce|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=9e25475b61bc91f8441a36be1de28460f307e608147aaf83b50840c70a54c685.1779008479.41d798a37d7327ce7bd64a7df2deba33.9df3d79659631dc26f72d7e3c0bbc8a7.03b4c0f58ddde9ac681b9cbf66808fbf&signature=4ab90261e6abd38a6d13e75c30b48fb98c5b46fbf8e1f2bd7af8d92bbaa09b98|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=bb01c00db0deedcaefea5d304584b54033a86aaa68b0305da18ce6bd026424c4.1779008479.428a95789794d1d2c0857a91f40b6238.af293501324273147a1c727fc0dccf9b.36f7d189113a873790e36024f4a3c273&signature=0b29a689d8e21fd18ba47572d398d4b22c9b4976bc3922f5c56c55c0327699ec|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=c829b90e54eac60a27ec02377d4035304ca0d771ea194986314a4425f8e25e4c.1779008480.998b296efd1afebc6bc7dfd0de6f2507.50386baaa16daa0692c96d23432b6d0d.1d161054aa90eeb3dd1fcd69aeb23d74&signature=d32116029b2e261a228a728bd5e0e36aabbc61941408cc2a45a094856646ec4f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=208f373da12bc79abf1907a2cc9ab9055bddef691916ade2f28489aa6bf3d4ee.1779008480.3ece9e45c7203e13c93227fcea82c50e.c8159638bc329b3ac99a3a7757a687e4.0a643a439eebfa644f61ac7c776e11c1&signature=4c08e94a79f9909bbd7aa7bb2983e04ecff6ba10c5e98b2f6f72c1e81cd201e2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=df5930dc14abcb1a66b84bd186e74542563317c1b468075f69f487520d0b0ee8.1779008481.2051cddf19709479f86aabb323c93ea6.86e77f8eaaf8f8ec0149d40925135346.73064e1f23d4e0281b5a1088e2f8ed39&signature=c9480e86f483781a96aec987219bd2aa4bc16398c0ff0b2569d0d48e6486ba57|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=77447c4fe4054bc1e2930c5cfb5a477598c69ea71f8b56ba34189dbe296c9723.1779008481.9563024caf1590c03924bda91241da0e.d4e3ad3a208eb6e9bf6289fb3bcd6721.bbd9fd021da91a875dc64a2e50ae163e&signature=aeab634bdf401a215d91d62079af2ba495bd6265934a2054ab71b0e4693bed59|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=f3579500eab1f688afbaa9d638f5a8fb87c75cd72f9423ff46eae5dc5dd367f9.1779008481.e3c56cba58dc872daf1ca5b7f1daa9b1.53975e2c52e16d5c8d9ce53d07f27a0f.f0693ab907298e59a46c29df2fe09d1d&signature=860a397e38678979b1c36127222dbb117588cb5c77f2e73edc77de053f5a0636|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=6c2982e63e1fb54e2276c5a3976fc0f181fd2f8ff3bd7ee726772616d49137ce.1779008482.b0bf462c6d4fecd9660618963926ccd8.f32a1e023a0ed74a6fbe1f425252be3b.6b95c78e68bb88c61c73bfb0b29e3a46&signature=12ad5481189dafe2984ee7632c536f0a6fbc6a03f116ca3047fc4b4f14232b4c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=a26d58bae6c7d360001b8f997d5ed8702f3b413fe291f73dfd4a984f944fc1a2.1779008482.522b35c552e2c854aaa5a72dabb351b8.51c482f0c9d4693a468a282d2fe942b7.5684280f17c6807161947cbbd8df21b5&signature=c8fe80adfdb84962b6db0fe9ddbe6df5a0bdea44c41fefb279bdbb6157f46ca9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6c952f94438ddf42d4a3d39bba00c0b8686fdb957bbb9e884fbfe54033a3a2a2.1779008483.7efab56405ce5a4f007ff392fab84df5.509c27bc98294b737dd1bdedac00c1e8.a38d3b726b98e477998e330ddab7ade4&signature=a75550971ac5b24d992cb417ad2234302b4eefd8dd5b577df35d09f1c6596895|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=29700ddd09aabb2f176f9ea112c0c75f0f4cffd8b3ee973a61472cb6aa0eea2c.1779008483.83d43afa6068f9b68b957f4c93578394.31b112da6a0a92857ddec85571f99dd1.3b29e2b152f71c4aa085144eef70f720&signature=10202ce7a3302d21492ddd006a844878f117e87dfb5b38be60f65483031f28dd|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=d9509b89464a409fa539bec592df860963f6ecc328a66987862cdc11dfe2a0e7.1779008484.c6f32c2bad22a7651b450ee128c809b2.3d5a39bbc4444130bfa50e3b24df3ae9.def0c01b0e2b61f71752ff5a0a5ad53c&signature=ba71cedc57dbbc36356c3e54ec826b55aed8c8886d4caf67de4e8d41683a7135|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (Sky Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+3&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-3/playlist.m3u8?token=6edd75c2aee3d016a85cc0d9452188c66e6227b458007cecbff7cc6a666def91.1779008484.70db2d06ebe9efb379e74af54b1a31b5.687d1e97216cd2d6c7b4ca8219bdb64f.57fe0a6540d29c2b2f85e768ec61938a&signature=06dbcb1f8c63e5efa9680b4e14fc64ee091264edc5cc65e66f6555f917055335|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Royal Challengers Bangalore vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=43b61a7eb296bb0bd953936366ff7510aa60927ecca170aaaf60ef5199c9729c.1779008485.6fd2132293ec2979b678fec3fdc5c57a.8062c2776ce3181c768b84024172d5a7.5defe10e27fbb20d2876a445d4ed6087&signature=20dab83a6c82bc52c5a67df6871eba54cf928a21cc2e52bdd0c4543bfbb2b585|x-forwarded-for:77.238.79.111
+
