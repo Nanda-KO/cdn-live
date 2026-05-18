@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Farul Constanța vs Metaloglobus (Prima Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3294.png" group-title="Soccer",[Soccer] Farul Constanța vs Metaloglobus (Prima Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-4/playlist.m3u8?token=085fd5400754f2ad40553dd418c54ca6e53da666917ce7416f6f6ec4e14aa7dc.1779131946.8842c473997ac0ea6ae176391ac950bd.d883dd972e59372459570a10ae5f8113.71be0e0fa4215f1498a53faf2d520069&signature=b2946412d15c6723c9c69a5c0260a769c741f30f48efdbf4e4d6ef663311eb49|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Hermannstadt vs FCSB (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/260356.png" group-title="Soccer",[Soccer] Hermannstadt vs FCSB (Digi Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=4cb54d905f30541f49ea98c00b1a1e477e72aa2d982f891b5b91c4d2c59eb043.1779131947.e9147a4448e3295aaab8550ce078258b.adbac542e27129599f211b217218aa60.bb94379a99737fd42647dbde954829d9&signature=dd450ec97dd44527fbf959235fa86697ca58e9d530e04eebea882a2907409da8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Hermannstadt vs FCSB (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/260356.png" group-title="Soccer",[Soccer] Hermannstadt vs FCSB (Prima Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=4b4df7005f06444faa81f279313b1aa3ae1dd480632335aa5d2793164b001bf1.1779131949.7b3969454b398cc2c9dafb0d7f28a447.e280ccc16928c9731626b96cd9c3bd91.5135644a8db36ae27cecf5a9e0226199&signature=963ed8a9170b25e4007fc3add2f9efb207b1c305b9b8272d47630530518d2bbe|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Petrolul 52 vs Oţelul (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/25856.png" group-title="Soccer",[Soccer] Petrolul 52 vs Oţelul (Digi Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=fd787bbb68bd8025a54874001742f7c377033293cf061680f092e7e899e462c8.1779131951.9ffbeef3bfc212fd3eaa434defbadc55.7354cf21dd6c0091c6154e420be5f3f7.f8ac5a363f2ac680f492aa2aeafb4341&signature=7540a627de53c6866b624a2634c3364832eea2146c5341bd290a448bf42394b1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Petrolul 52 vs Oţelul (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/25856.png" group-title="Soccer",[Soccer] Petrolul 52 vs Oţelul (Prima Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=5844b0825173d6fbbe6daf4bf4fd8a51159c6088b53e2da013d1ada6ae502b9d.1779131951.84a79c70132c929ce688fd9557cd733b.7b3e0d564001259d658c22098ef6c2dd.c3e779e94adbbe9f2dfc325f3db61c27&signature=d2972a18d5db9a0a195ffa33f5a6d747c4e3b47927942c5d1977a63f755d45e1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Unirea Slobozia vs UTA Arad (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/44259.png" group-title="Soccer",[Soccer] Unirea Slobozia vs UTA Arad (Digi Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=2d6f7b05e7cb43851803d9ea143adf23a87cc33feaddc6623f3ab79937a87304.1779131952.34329b3110e5df4c325c16568735c9dc.71598e358cb1de1144e689a0f3d5f1cd.edc52d94e62f43c020f739a774688e80&signature=9e363fa561b217e91addfd3346e64815bfa10c51ec1b974d65a004a80c956ea7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Unirea Slobozia vs UTA Arad (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/44259.png" group-title="Soccer",[Soccer] Unirea Slobozia vs UTA Arad (Prima Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=2c5552b8d0dc763cd79cdd817588dda8a59ddea732ddccb7090e8f7c15c22e5c.1779131953.214fa5354d9354b13518373e24bd6631.999eff25feb0485d12b67bdf6f091cf7.f6a1466ac03cebf27a336cc7daa2aa83&signature=7d2c35542f246b270761b458b0645cfac84fe57130755d1e6edf64d1f6a85fe1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Leganés vs Huesca (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2845.png" group-title="Soccer",[Soccer] Leganés vs Huesca (LaLiga TV Hypermotion 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=3b230451bce894b4615fddfc7369e75095632452bd6ad0e5159b0a42c0e693c3.1779131954.12a43c11d3c45f6384fa63d19d6d55b9.6d364b14c12792bfcf6b5f827c392210.1b7254126f535254b2dda5e109ed61d4&signature=4bb5cb7ebf7f3aeaeb356a8e4dd31e5ac06d8a4f442501a97bc813c38f11ff5d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Leganés vs Huesca (Max Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2845.png" group-title="Soccer",[Soccer] Leganés vs Huesca (Max Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+2&code=bg&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-2/playlist.m3u8?token=c66d456cb3cf89bba367c9f8d2d9520a965af89d81eeb022c60166b74203036e.1779131954.6f8299ea1e599f511acbf8725367f651.ebe13ed55c98e53dd4eb403e0d841835.4eef3798a091ee5331563abc23e3ea39&signature=78c2f579910640d77437c470dfe82ebff888988db58683943853b5dba6bd9fe7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Arsenal vs Burnley (USA Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (USA Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=f24bc2fe2f4ec88f8200275efd42a709d16b05a43e847ff908712010f075ef8a.1779131955.1b5fadce0262dc911e9a6d55587a3b65.3183023f52ef520c4740280321c096d7.795eb8915b83f11eeb255f99e545baad&signature=f9c2132f403cda212ae04ddf4cf81214ee61b511f88799e71a731f79a8572d0c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Arsenal vs Burnley (NBC)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (NBC)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nbc/playlist.m3u8?token=93769d8901c2f70161dc09a4cab7bb96a2ca0788551a7ff40332e34e71830adb.1779131956.90c2296f49142c570457260de2eaf235.599a927975bd88eeab63570bb3a3559a.c320166211d5d9dff5a1cddc5eda4d4e&signature=fbe9e49a9baebefcbd2b770227cdc7d43ba90c4b6200ada919275d42c4dbf8f1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Arsenal vs Burnley (Astro Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Astro Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-premier-league/playlist.m3u8?token=a3e6f67ebb2b02b59ea5a3adebfb6862e0b4594fc1016cda7986422ba76b3c3f.1779131957.b18a700c37a09d1a33fcb02fbf3290a1.3552126ddf93eb7d53781963e5b95359.3c47562c938abcf30f4df0982f29e1b2&signature=15ef41f41d550851b9cbdac2de63f567d3b29e9d43ce3846335ccb24d1ef0cca|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Arsenal vs Burnley (Astro Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Astro Grandstand)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+grandstand&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+grandstand&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-grandstand/playlist.m3u8?token=560faa78b4480f777e35898033a2e62c796457833e366da7696fa0704b4228e5.1779131957.2fcf6cf6d87669ade8d5eb7b6b9a1525.66850836e937f1a34bc3c5b6d88ff3b5.55efab2e7032c14857cc88531798a4e0&signature=a7487baf77eacdeda6de3759302a01ba5485b41db4f31c27db20d9df4ed42db3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Arsenal vs Burnley (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=34c300b5078309d7defe6b1358755980e95c7cac2fafa6932ea6af8069016fcb.1779131958.7f858fd7c83ed65e83a9872b6b71374b.2d1987c2530e8fa350a7e95223bec909.5005ab6b7d505a77cd8b91305eedca92&signature=e915b97c67ad39742b35bffeae82f8d5928aa943d564d31737ba5c114c15f949|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Arsenal vs Burnley (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4c0b242cebfee2a16558df3a0adbde43915c4595f53377f6af9e25f90b9ffb7a.1779131959.75595220addd6994ef28a74270dbcfe5.898aede2cedb9d07b44735780befddd9.7ff6526102eae8f73739297481c28f89&signature=086ec018a074f31ee6ca85fcec1acb1ba4f07dc384fab1399c9f99043a68b7eb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Arsenal vs Burnley (Sky Sports Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sky Sports Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+premier+league&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+premier+league&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-premier-league/playlist.m3u8?token=95755ab0e063df9d4bcc9c64699fc302575c35cf84c20f4b059e5d2e43e210a4.1779131960.a7a3f9ab81a31acb27604c181d2b19f6.1b731671274b240ecbfc2d54671169f0.3daa2b7dcfc50e6a7c4542f0df8773fd&signature=6c8713d311b1365cf5b45f4a45ec3cf32e5e06a93c28fc54dc4065fb701bdb44|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Arsenal vs Burnley (Hub Premier 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Hub Premier 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=a8eabcd41f28814cc0c608aca8c99ecda9cfa619c807bced9b263087c70ca193.1779131961.436d4d7b552bf46598bf80d10549e482.d25b7d3d5ce683cca25703332e4cba6b.75230cebcc87467b005db18d014edde5&signature=5a1fb2fbc081a53ebf61db97e6175db4d2c3a1c5bb3f3e9f71162530e8480cd4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Arsenal vs Burnley (Sky Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sky Sport 8)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+8&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+8&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-8/playlist.m3u8?token=170a39013aaf7449ccdf0696a8d738b238e6c2eee30d056c6c5c723418ad8e2c.1779131963.82c159ce0c970d84552de704f773a882.b4fdeb0a52748fb610578f9a095de262.053ad0c774ddd8cc9b69404740992621&signature=3dbed5b91e50969de0503565bc7b1f3ce46cda5d3d7b71095a449512d68b34fb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Arsenal vs Burnley (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Canal Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-canal-sport-3/playlist.m3u8?token=fc04702598fd6ee8120f1b1ba909147b29d2318e3f7a90c472f933a1f06465f8.1779131964.1a908be4e3c70482b2a8777a5e087aaf.a422b93243456027a4cf0dd840afe618.32ca5a77072247ea8b6cc92296b6356d&signature=4554d9629972842e2ff635b99d5fef3678b6c7e6c3e5ce9f5ba7a17a37c01674|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Arsenal vs Burnley (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (SuperSport Maximo 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=c3d3340160d682ad7062d88bf7b734f223f2125d0ba0b9d50bdb84bb13dff636.1779131965.b482a5f13e3c4bb35001efd3df698155.c7e2d3ad0ee3b6882d0c63b59006a2a5.3f112c6d6d08646912c683b20ea7fa61&signature=67a0e26355dc023923b506a578d642d0c1f82091ccb7f156d80c90ae44f350a1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Arsenal vs Burnley (SuperSport Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (SuperSport Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-premier-league/playlist.m3u8?token=f9eb4efe8b1abff394179a1f51aeee748c39f1429b6d45e47c0ce13e2411a285.1779131966.45b624e73bb3e84eb27389e3102b36e9.567885eaf73afdefc711899334bd4ac3.a42cca5f004afb8c3a29967a1a7a2786&signature=fe7cc15d48e995fc39816c9b5337d1a13188eb35f1389d1a24239d261bf5f0c9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Arsenal vs Burnley (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (SuperSport Grandstand)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=eb1c8f86a118cac2e27f431835f9b49ce9649b79b7f8e8fc9b2525bf16d361b5.1779131967.5a27065f2334925eb300404443d16be4.2c68fa86df44b30dde6af24f2c4e9777.a3790a08bc586860460366d276356ddd&signature=71ffdf60c9081b2899228e2d181277c64a4ad4b6475cb8063f17613c8d239476|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Arsenal vs Burnley (Canal Foot)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Canal Foot)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-canal-foot/playlist.m3u8?token=1e71c27e2ff3490a3993f57c7ed4492a7d93b05e07960fa34b75929dc43c66f9.1779131967.310aff96a1423c5061fe4b03dd0ffd91.6dedc1be432f442a37d6d316754ffb25.4fa3f759a315111996bce6498af7b576&signature=7efb350f83e020b6a6f412ed0329972beec867934b40d7dc44ff14444cdb3d34|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Arsenal vs Burnley (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=es&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=es&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-dazn-1/playlist.m3u8?token=c425b1f7b59cd5aaa0f74597b93639d52c53fe0614e76c395ebb1ca22c129226.1779131968.aa63cb8b65331b83041fcdb064d4bd1d.be37190c6acd7f2dc25116b8248f97a3.cc8061848d72aac069415b6c10929947&signature=173a11d7bf94a51024801268157ef17db76f8bf8f71a169e37a713afdd123532|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Arsenal vs Burnley (Sky Sport Uno)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sky Sport Uno)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-uno/playlist.m3u8?token=31a06b8f2a8266b2ae6f30c89fce986f0bf8851efd0568e261de646c2ff62a9f.1779131969.837fffdcb090cedf83d9a30044de6912.de6066339fbfb82a285b498f947716f1.24a3408cdb6dc788dc73886f6437b177&signature=e9e981cd6851027091e727911513846fc393ded504120a5fb043e298fbc27ae8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Arsenal vs Burnley (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sky Sport Calcio)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=6bb50d696f71e65113b7109b31d39ba1b0b4dac5f8c7b1afbb83a31e0adc921c.1779131970.7d480c01a6f70f20a8cc9343dc1c4a51.3561f787edfba9eccd14371b846dd580.37188e69c6315acfa9cbd73b722ed8e1&signature=bc2637f06c2a1c73f37f336a17f1d692eb365a2cc15f2440ea175f94d79b76ae|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Arsenal vs Burnley (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sky Sport Bundesliga 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=bf6c0d95cc68ad55cf12d2fd71d8fde60548be70cca11f178091f3c08256dc13.1779131971.c1f6702f77530f21e8db60c72e7568ca.019fa639eadd7365ce67770f33f29a52.9397231e0900a4038b58c55ab8fd0250&signature=57df072e7e502aafbe56623f3fbbe490f7d8a75387cc01b183d7950d9d8bf0a1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Arsenal vs Burnley (Sky Sport Top Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sky Sport Top Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-top-event/playlist.m3u8?token=e24c024e362a0e5c34f632211d418416ab9b83b503b603c12158f199279edc42.1779131972.ed368fab72331817ea80ba68f15e36a7.8fab80a03aa26747bda411ccddfabf0b.605d1a7caa041cc5fd52f4fd870c34ce&signature=f66067587c7ef3cacbb90e835ce2aa246df2c1f018a27a321f670b98fbefe620|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Arsenal vs Burnley (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sky Sport Bundesliga 6)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=ecccb0196a675e03692b2bc2f714973ceb8849ce08885c61a00d43444dc3742a.1779131972.e356ff2a10ca2956664a0fae16fe775a.55bf88347a76e87e588b23fee474b8fb.de59e74e31893032db190b11d0cac1c9&signature=c3cd6d4c0e9f50e994c733309267772ae136066bc6e49e38f78b011d74655b72|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Arsenal vs Burnley (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=cf6f401d9ec6e516dc8f0c4587c68dd9fc4826a9dec733c0dcf59ad8a8c206c3.1779131974.9cca408af7762a602a051b7a9620d83e.fa195556b66bb46ce2177b0f6d29e3df.e68cd1da332e9d6324bde768608d847e&signature=0f4221590d6f8e0dd28b50adf1ea7162e524f029b3d019a2e8a1be968fbb3216|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Arsenal vs Burnley (Nova Sports Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Nova Sports Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+premier+league&code=gr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+premier+league&code=gr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-premier-league/playlist.m3u8?token=24122421136959c960d5d15c351ec0c529ca7835bc69cc9524d4413706d8ddb9.1779131975.e61ec58eb1dfb3ab5e7bc20c32b5df16.90044dcb1af0210e9c357c0c2500f03d.f2954c1c0afbd0de36383015c1545f00&signature=3e56f9274a9f00934f330a34974711af501038ac31a35d38da19f44bf0954494|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Arsenal vs Burnley (TV3 Puls)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (TV3 Puls)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv3+puls&code=dk&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv3+puls&code=dk&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/dk-tv3-puls/playlist.m3u8?token=e792309fff8f7fe033a6cadaeed3df2225821260b1b84a1b9de211de44f9b860.1779131976.bf66337204fdc2757d00b21d6936443c.7f1764115f2069fe44a0af720a27a549.f56686a6727d89be97d57551a78fcf3d&signature=0edc14e142e70cf0d788259f9bce6d5fc684e24f5194282545d29b0a2cdd9a33|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Arsenal vs Burnley (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Diema Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=f368436e71e697d5773feb5a17baaef4828ff6b6c5689ae7ad0ba0d7962c44a4.1779131978.d315da1e6823d0e3534b51253918518b.202b5d41584b607306b879e9efbeb640.2b75e5a8da264f36209c06b434f5be35&signature=ce526b1cbe802d8128e4126eaa858a129ba10fbf2850f12d3d55baf427743927|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Arsenal vs Burnley (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Cytavision Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=ec19556886bd27f09740bdd8a12e07a00cc256b53fa3fedcc6ce1c86369d5232.1779131979.f894b980bcb6e4eb27e56ed3f3f989a0.c5b5002fb4b47672bdc91ada0b45283e.e90d5da79351c4bdf69df4f13a630b7a&signature=6fc2ac5e703c2f199dbd8b86f06350c844014c42fb03813324c2ff02204895de|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Arsenal vs Burnley (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=3fb97c7982f23dd5ba6fcc969e34a6208a1da064acf717283a88d576126a1b2f.1779131979.2e90456ac7089194430c5f7d618c76a7.b93481b0f6c22632f274b2dfb1441712.8071401816b3d9c99f977932982f9a6d&signature=46e8779ac00ab5dfbe0b41d08fcac300da7acf897fd459d5691856e1a50ab778|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Arsenal vs Burnley (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Arena Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=441a870a3726b7ad870c9039f3c190074dbe74b8d38fe26889fe2e629e77b6d0.1779131980.10fff3f940519d896121fb5a2b9b8f8b.90fa3b29b42a30e056cf4a15c7d45ede.eac21f37ce11d7e909d4cbd5ded1282b&signature=8f8e91461f40a9266ae82ab3b264756cb1c7c6966b5c44577f317c0a03c01533|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Arsenal vs Burnley (Canal Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Canal Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport&code=cz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport&code=cz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cz-canal-sport/playlist.m3u8?token=d5c384a36818907cd0c87f1a2cb0955cea0feae00a38b80485a7f3d699cce0a9.1779131981.7621215a0c7f3ccbd746ea0760fc299b.8f189a37d0adf06710c58e3aa16f92fc.9103f0db44bcf9173b0ea16ddb4f5f35&signature=4289ba3c71d867c1c65cb014789f28d131672bbedc827258deed715274e4e86b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Arsenal vs Burnley (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=ff51a407a92cc200ae86dca1cb55984808ddf9306b2bc2807f370eb2daf45ac2.1779131982.0dfa308ec8874a59f215a5e24913499c.591452fa7234ac6949c762080660acea.f8421430b8c8dba9ddce1c5ec8fe1e51&signature=fb7d7b0a34df0b54c296bd2de0dec568f8c70bf9b52b2005241026d07dd99913|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Arsenal vs Burnley (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (beIN SPORTS 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/tr-bein-sports-3/playlist.m3u8?token=c9fcd26047c7bdf34e3c384e6a1bee7fcac3002bf89927cb74e1e760e8c81df2.1779131982.97a52d16aa1b9fc308b2b104ad58b17c.09959f83a6643dcb764429469d10ecdd.c5ccd2a5dfb3a611704bfc5edefec37e&signature=97f763c0074b87d2d4852bea0ce7ab238226586a76b054a937bd53af7d8dbbd0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Arsenal vs Burnley (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=fe66484fb3866955d1ea1e40e56633288f54074de1dc1165f9b8141c714874b0.1779131983.0b61c629fecf1a5b0c93a788a9382c60.6252271f7ff6459535de7d8e52497f25.7d47f776998bb83ec96e9d2b66a363e7&signature=23a0608d9229d9971c5250f67d95b0e0a6555db1fec48718ae4aa6eea6cac16e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Arsenal vs Burnley (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Burnley (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=ab11c89282d4ab7f2a0927df1b2d6b40944ffebd13ebc60d892165553e34fe04.1779131984.047796ae818cf8995f902ec0944853f5.f06db5534f043a53485b8295ce834462.ceb25b9883d04741cd37fc60449a4c26&signature=4048e77f79091fbf75b3e73a72cf9c35e395a5e4df9c73926495508658db75ad|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=2760e386f813e9deba9243906b474c2fb32859fa7f956b9c226690d15a07925a.1779131985.a4a7791a16b99eb737d7932599e138c5.f27d5874864e275bf00702fc51a969b7.f7b1d60d6b68befb07c1972d1ad17495&signature=28546e61906f8c5d97223cee6c52bf2ddae6e4c2ed74602d19928142892d9b06|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=9b6d38c03ddd3f2f0341af9761e0fa209f59bc768ffa512d7ef1b380ae7029e3.1779131986.dc85610130ca1d5df2cce18af7042daf.b961d879a0325f93e61c508949188dde.9204defe09c0313f4d7ee3cf985d4f65&signature=2c8918f71d40bfe1153a1bfd1818009e3d9493ee7d8770876bc589a58e3b7966|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=3a756eff53250a4157a7bde2ba04f3450d124d4f4c630a31f94815a2a31f2ee0.1779131987.d7dc7e674309ffb0e29397a9b5294339.449595e61891511150325c6e8cd49731.3408c1a7be64986cbd6825b6c2fb29fb&signature=9edf40c0ca908691f7c7bfe7dc38eca86887cdc6a97cc2b19fdde8e0422dafb4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="45" tvg-id="Cricket.45" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c23a7cb31829519c3a3398db3efe3cab1f5ec1a09d1316e16c5a57a599195ed6.1779131988.d8c65581313db2bc0b517dea286cda97.794a3151ff71994f39dfc514094bb803.34e61f90d0c0887b8c785bc58d5ecf1d&signature=ef4e442a63cd093a8341ea81042a6b8305ca6c8030947ad6fe034959cb88f847|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="46" tvg-id="Cricket.46" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=793f7733dcb213c606665168de4c202561587f7411f48fffe485e13d8c094dc2.1779131988.6fe2ffba12373eb97f60357b6bc4dc03.05a364269206c8a368daac799d74bd17.1df4f93271308afe47b139026346635e&signature=e6f6fd40c645cce751ce6460e64c1fc104a29a8ec385e03443b48b35b14eaa75|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="47" tvg-id="Cricket.47" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=497ba0ff5e44b3e7de1236d9f4e1b8a423d60efb9087c9ec65aab0230d71be40.1779131989.c7befd6f754a9d1ee54b4ceff22dc8bc.f3674c01d06e08888c8e74e1ba82dcc6.d7d48592755716a6b225c61b871bdd3f&signature=090a920c7f8d928a3e9c7537c27444afcaecae7f4a80bf88abb905269791d5f7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="48" tvg-id="Cricket.48" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Hub Premier 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=9a8a9910ec68f807776424ea22ef6bfeb470648bdb1dcf1e2886948e2699f264.1779131990.0c1b3de06bc85ab83c240b3b1f5f760c.b56d55f7545b63835d1b9f82b6b49f43.4de8d9ec78cd86efc946609152db28d5&signature=1861b50fd5fb161db4bbda3279c98d6041acf90c03472c8e44c1c584f7322065|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="49" tvg-id="Cricket.49" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=7dcc0b0d8e3e6aaff1f9041fa0379fea7b6a26407693496897bafa3a88a4681a.1779131991.d373522d68756dc34ccead9d0d4f9f4d.0f7b39ea77eb078a311096c32f34078c.1e3792aca7397ba04ddc4c10fac39193&signature=16ad043a9be437e704091df6ca91bb4a48c9d416cab930f889ab7c60ed987474|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="50" tvg-id="Cricket.50" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=4f6ad7accfe24fc90c44183fdb29ffa26cdf04c1145d1d4028b188c34e9cbf2c.1779131991.b0a78656830712851498a595b696eff9.8d74feac5caa8155d5c1a53364e52a32.27677957c31ee2b0963163e5a8411c21&signature=80bb4565bc7fa113134ddcd70cfddef2d58b45d56df701c036555816afb705e9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="51" tvg-id="Cricket.51" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=d8a644bb70d8f8c19557ebce5c7458586e8b0a160a83a53ff90e336dd14191e6.1779131992.a31ae25e183b1a76751254da12a7e40b.175f44a3a64a18e71929a4c28d474aea.fb45d38e4981eff254470e2283107308&signature=75eb1a8709146c447580db9a20617cc4a20184a9762497fafc3da4939fe964de|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="52" tvg-id="Cricket.52" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=cf7a6fd1310ff362079bad8aba74b0442fcd4e4ebf8f39938016b236641dd2e7.1779131993.42b5cc65d0da57891a57b3cc7a0ead62.717dd51d84487f0b651c6a627dcbc902.202d46415045db50252309173685ffc7&signature=e98a3a93dcac21392f1fff44dfe219ad3989a2853420e14bdb3f19414d641036|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="53" tvg-id="Cricket.53" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=1f51f5059050a5cc36afb207fa30b3c13c0e499034d2e02d12bcc5d54ae57f49.1779131994.f9d9e5c17869e4d660133d0ecbbd69c4.6a74f66d065cf071cf28a5e1d0854dd7.93230a5ccae24224dbf1dec490e3efae&signature=3a57da68b5cfe81487e1e0cb7037fd96ac475a1706425d66b1bf6efd35277a23|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="54" tvg-id="Cricket.54" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=69983aa434a7d079dcc7ea85baa2116da27e92bfdf6d2d93ec4f42e12d5429b8.1779131994.13fe4ded5f4f1c3f5cee0dd00134c30f.b6eb556ed02c436c21beec300b4b014b.8afb2dc56124c8898d0b8a0c1b8bae26&signature=7a82ba85d5908353af0d5f4aeaa8a3348d6b694ec41d069a1b693de09b1f7ed1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="55" tvg-id="Cricket.55" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4058fe04fe0104cb01cd0dcb500c7cb7caeffd68a80c6f9a7455589f359ce503.1779131995.820867f9adee2a12497937e9cf1dc214.63379bcc2fb8529fcfb81a2cea18de1c.4ee85644bcc4e66b5db5c3bfff7a853c&signature=b7a784472079405ad872e75f135e78fb3ea4d8a3ef6d5c140df3d0e96c19af75|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="56" tvg-id="Cricket.56" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=5a507afea8c071b72fd3c03d0631dca4b4f4ff8dc3939ca08f2c1ecd04e371ed.1779131996.9b353feef833c4117f966cd4110a355e.4ed882382b1b002c81a1c517f108f552.fd393652d54d2ec17e09da6a0596f7b7&signature=e2f50428b02370d5070206c292d5d9bbf238faeeb7de91186f4754b1deb9c1ab|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="57" tvg-id="Cricket.57" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Hub Premier 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=f290e8ee698dc9118e76f0078e9a74c9833fe6f0b53c3a972fc7bfcc7cc6c288.1779131997.84376e7abd2cd5fc2000ba3be17236e4.aaeba67356d5746fbdecf0a3715545a5.e8e5bd275bf2cda47fd0bf64b4b4f027&signature=906c3b2a07b151c13cd0f9a53942f3d04a3ce6d197203cd753b4f93cc2403535|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="58" tvg-id="Cricket.58" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=eeed15c8b9865d947666372933148251168673996a04ce4a173c0d2ae0a0d64c.1779131998.aa31f664fcd63ef02112177ecdfb8e23.81d8acb112c9303527c319b664e95ef4.1e7e7e4ba34d1c20fece6ca25903addf&signature=93dd28ed5d8e51e232db4cf423075ee251fa9f15154dfb69e09e66a4f67aaaee|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="59" tvg-id="Cricket.59" tvg-name="[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Chennai Super Kings vs Sunrisers Hyderabad vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=streamsports99&plan=vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=1d2d7e8df48c6f595d0076976c7f589a9e19a0aa511ad8883bf8fec147a20768.1779131999.6daf8acdda6d672bc5c15f6f6af222f4.71bde818a6ef8804d34da9938d1faa7f.3cf6c35ad63754a0a8017b5ff1242820&signature=f95f06adb65143f0a66c134c32de7420190013c8d9f9fbe36928feb483c60a19|x-forwarded-for:77.238.79.111
+
