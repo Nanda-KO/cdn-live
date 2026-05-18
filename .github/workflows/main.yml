@@ -1,13 +1,10 @@
-name: Update Live TV Playlist
+name: Update Live & Event Playlist
 
 on:
-  # Runs automatically every 20 minutes
   schedule:
     - cron: '*/10 * * * *'    
-  # Allows you to trigger it manually from the Actions tab
   workflow_dispatch: 
 
-# Give the action permission to commit files back to your repo
 permissions:
   contents: write
 
@@ -34,18 +31,23 @@ jobs:
 
     - name: Run Scraper Script
       run: python src/channels.py
+      
+    - name: Run Scraper Script
+      run: python src/liveevents.py
 
     - name: Commit and Push Playlist
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add live_tv_channels.m3u
+        git add liveevents.m3u
         
         # Check if there are actually changes to commit to avoid empty commit errors
         if git diff-index --quiet HEAD --; then
           echo "No changes to playlist, skipping commit."
         else
           git commit -m "Auto-update live_tv_channels.m3u"
+          git commit -m "Auto-update liveevents.m3u"
           
           # Pull remote changes and rebase BEFORE pushing to prevent rejection errors
           git pull --rebase origin main
