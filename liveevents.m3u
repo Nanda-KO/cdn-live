@@ -3,185 +3,185 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=4bf318b1e633b0fb0b28f5612a72e1ce6df634a37b80e620ee48b1c65288f596.1779227190.c69303a3f0ccd7f25df20ef70e39e087.2c9ce9bea1a82527393038d36f02ed93.a55e2b410fec5d839ba8818be77f3e3d&signature=ce9630eb790115fe390ea611f99f9f1dd1f63550af68bf078b2790684f70405e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=6d7636a0ad164cdd7099612c7ad84af41902cc64373bee55809e97c6260c415a.1779228466.e7aa9817a9088ace45cafd0c7a6e2842.fffec0475264adbcef216b89da0c6a16.2c343cca7e86c2778794e72e9bf66ef0&signature=bf991a49155baadb096a7318e1a04925f6bce9293d4a8bdd5ee4de359c37beae|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Fluminense vs Bolívar (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (beIN SPORTS N)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=d907900bbbe3b3702ec26dd2c3232f45a743cc76c40e2ee4f2fcf04dc5e12e06.1779227191.0d39e0b083e36d2a4459a429e5d3be08.6b0badf666ab13b4c9f8a227d33cbcd8.f4dfdb0d290f13089e755b117f7b1105&signature=d142247f39a0077fee0281c255bab11b37aad845aa9fef4994bba0d65bb3962b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=d1c035f21ffbc79a050a04f77b5272b93aa5a979d8151372938a24cd2a4b7fa7.1779228467.24b4fdb94964e71c481c5c75ca7f5552.70701a29f289bc1106135ae511a36b7d.114340e02b0de5ebed31435cbf5e594c&signature=cf5f2f0764d61a032bd23a8a47cbe4dece1bd95f8be6ce145b7834b0d9596c52|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Fluminense vs Bolívar (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=776c7539e51fae745804bf8f8526184b59bbb9e8308bd18913ea8633ba187154.1779227191.dc0fbe7ae75fbe82cde852cd89d709b1.1292487e63791a765e7407017913b41c.10b9a63e5567d34f16e21a492ef5782d&signature=edfe5b5f1fb46dfa88f858352a04c0752aa66596e06dd0d452fe11acf9b28a37|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=a518a41d9629a6b070f93d5878e9fbfb523352a1aefcfc54ddafe4eb750fac8f.1779228468.60dad2d10f0809a004bb1949b8452f20.bfaba03bffe173878451b69395de6125.05c35a361070d58b743c0d3015dc8333&signature=e09c5908161eb28eec59228b58355c3b40a4e79e74517a25a3893cd235b5cd8d|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Fluminense vs Bolívar (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (Max Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=c06b1675423da784b8005f365325d22df13b6b792ab860af21b7df51881131b7.1779227192.13065e0bba9eb032e092658fefa9b321.0cec81416ac8e3e431a1af10fcf894f8.e36d91d818d36c4c609025d63c766ed3&signature=c1dfbeb41795f2cdcf3873cfbb3d41424f42f31f1374ff7389ed82e3c734a7b1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=16e3bffe2e9174f9b71ef3f1ea72bb0a464fdf9141ded3d06c9febc709e216af.1779228469.c88f8ffc151ee169d64cce1dcda449da.655f4354ab0c63a5406d1f07a0ff9c3d.2627943f99d20353142f0906db8e4edc&signature=992c658183fca20a1c80b6ec015538589f0e5e60e439d340bf99501ed4039558|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Fluminense vs Bolívar (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (Arena 2 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=e5b5de466bee431b0c6815d90add1d2d425205597ec22c1995786e92a7af911c.1779227192.9f4f029ee930477dce6a22d9803543d7.6f37cbedc87fe0f798c8e97d2004a5fb.63ef548644a55e5530961459723f128b&signature=d503648eeabb5983dc1bf61303a3f5b12860ea6355e348e911357902ca501ca7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=d456e0f097e0ee7a81bcb794f2e56db3fd76107db65519c75fdeb3d88e086acc.1779228469.c70ef67576e5e5ee05eae7a343ac853f.b70fa36d62af6713236b922896446a38.73b6665d029b49c7a4b2c97e17739596&signature=b85eefe5e310a905683d417329838ca0e54685de2a731bfa19dd8a2e8e8b6406|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Fluminense vs Bolívar (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (Arena Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-3/playlist.m3u8?token=fcb3f824e08c7160330c676c35c8ffea5bd4f158aaa00246bd4179569f565a78.1779227193.23d5c6d77cf7eb51a52b42ed3dcbd0bf.ffe58a6636fc32817c5f51552d9e22b3.569d7b83d11f0322fa0120a2185a7b14&signature=0df9d5d0c015d679949410bb3c5fe6e307390797ae4e205fa769549430784c7b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-3/playlist.m3u8?token=3d1872b4f4dbada27ba65f366ae1050ca5c3b2e434cd0265b7d3e7e8638298af.1779228470.a04658e4fd514668281584558b5a2b27.9ef41b62bed67d9eb87d46485c01424d.8e0a43f13a8f9ec37f2a85d09f197a76&signature=22ab840a0d5c5594bfb2f79e5042d2a26751f5e143f6d1e6d8510a13d8b25ecd|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Fluminense vs Bolívar (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=e82bf49a88b148aef95c4e27b014e81923d62a415faec65d3e51d048b9f00dea.1779227193.470a4dc0d1aea498e9873c0e05ce2ea7.f48d88235dcd3e62d7cfb5ac21c0e697.905e1cece353b226a40cb4272c6946b8&signature=4f7b9ca91753689a3e6865ad6f301f09aa4d08dd34d0a361f481fa2371fd533d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=fbf88bbea776dec7c6b17fd5a742c43ff025a7d067cf33c49ec4cae49d200f08.1779228471.d1501eaf041c112305ec9b3403edd2a8.3bcc3ba0f0902519a02d0157637d2aea.d9368509820b0c8e932f282acdd1741c&signature=fb6ae31c00733f3cd3ee7a4b6e407506da8213aa343eaa4da1c657bf0373ef50|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Fluminense vs Bolívar (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (FOX Sports 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=e586262f1d7e89f9935abdbfec06c1937492bc9d17a80373a396708ce5723003.1779227194.be68ccd3e93fcd35985a275a26bbd74c.4317475311c0b29f79d335c0d1246f5a.cdec87111f8296b71d252b931f870cc1&signature=2c39e2c109fdef1a90b61ed5be5cbbc8da49219983c04b2ba0905e26b6d73cd8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=e6dc9fbb31e57c7e3f4c538bfa72a35e2596e510c6a6c94bb0c066c64e2d8764.1779228471.f5b4f6d23f065b8264b16926a63b6a70.2e90c87b72751a2e0fa1532b0a46faec.5c6dd8b8b625d466f0530fd138193842&signature=ff8ee18ddb584e33765bb6a6a5f8106548ef5dd5dc3484a41afef8b1f8bcf0a8|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Fluminense vs Bolívar (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (ESPN 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-3/playlist.m3u8?token=0402ba9d705b21b4e52c3a3cecc6b923f151b55c3eba96e3ebbf23e0947fa332.1779227194.acab1173c9c5cc08eaf392765f8f8c98.90102cc7496c30133cc540352902ea67.8d113c8b751ef90a16a83f151fc09f36&signature=e62d621d8f1c290b6e4cb7965ce2a5e825dfde80905e2853dc730b7ed8151df7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-3/playlist.m3u8?token=6985674fba62ebae6b99c1d19315de260862bab831cb91cf5c72b8fa6d5f8970.1779228472.4c93c915a42c06c1687626fc16d61432.a2aae17191a5e0611e424a71fb5f5ed5.0220521fed614184188071128d2aa485&signature=82c12c51ff19cef0d94a3b8ec0928db047469762c36bfddf848ef881b39645c4|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Fluminense vs Bolívar (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=a56c9bc383c9384a35ad9276f8d8b1a228d04fda5d93a3d774bd9cd2bde340ab.1779227195.e776343653007e04689fdf707d015243.79f041f913bd576f43b14b74ea94d8ea.78e83f71c99ba5cd09900f15d01bd4bc&signature=3607f546d0d9a939e8fcd22c21879a4d1c7776740ca878244c14d013c0ea96de|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=99ff8af42d6e37bfda638369390ebc1f080077a782bbd9526fb592813675bdd8.1779228473.bbbea8f3d09f64ff17091b76c162b125.18cdbb8c34ab3f7db625275d3c581034.a0d31bba5587d83f20135bc0b0d5b2fc&signature=ab23a8a1f181596b65184261dbc3c2c81a75dc21e20c6c6607aede75f111c36d|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Fluminense vs Bolívar (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Bolívar (beIN SPORTS 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=da7de73dc3a09c7f584945ff4a3adf6c15587458b92f64b618dd023b3d119a3c.1779227195.211e70403734d02c5452f6373b09fef6.9cc6937346eaf41d5cc3a810a787362d.882e6aba2c68a17d70c938e423623b07&signature=3aab7cb86d643861237bc1eec3b4a7d30f3650c37c41657e4c7f30a099a70c44|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=46c04e2c3dac4b5f03e3047a035bfab22c2ab3648537bdafd6efca07c8b2d610.1779228473.732b8340e7b4f92c3aa395ecf6f71361.e1e86d8cbb27a51e1e2991c59ba90dae.969af43c68231a148393d64f102b5c48&signature=6c5667b3e0f95c9152f95fcfc9600d92e26ab0e2d7a5afe9cd0cac4665f2d523|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Rosario Central vs UCV (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs UCV (Sport TV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=884e18bd4be285548cb47773e27f2e853d461789ffb3cbee1ec337ff717fda84.1779227196.fff4c6121da9520928fe3e947986bbcb.5defda95ba6e15932192497da390b63d.04bda45698a0d0d4eb306fa5b3685753&signature=fb9973f3e4146fb9224d1dbdfe3aca53e8706af01154434501f243a3af58b391|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=80b47f10d13cb4b05faea284d365c936a66df463ca62d22386b10b65b5cfe13f.1779228474.44970c8b966f7342b2f83455a66c2edd.2e8a75a97173162aba952b08136b6279.68debfcd4bdef799093f872f9ec0e861&signature=3ada1cf27b933409edf0a0a30d873b219e53db98c7b2abbd6ffa1b5dd5877d1b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Rosario Central vs UCV (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs UCV (ESPN 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=57295ddaf5cb83909930a74c8ed8660a5e846559bebb59a80c848e2a356e5f31.1779227196.9ebbec920da587eed4775d99aebed801.d09cb5b035d4e08e56a8ba6abfd8ea25.dffc35937bb6f5ba88eebea5212f0014&signature=9fa43bb7ecfb7c73b38bb3060113267653629ff7d6b6d75886b51dd8c8d1d0de|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=fe0e21da708e782cd4965bd91076e6841588b4236a6317bd222fc0caa82ad43c.1779228475.af5be187aca59b0e2885ac591d5cdac9.a9e7b192b3bb152dcc34fab33fe84b55.210d4031687e09366132fc6d8dab1147&signature=6a9d729ca6ab5dd71a0799c778a4cd526f69a829966cadc01fab13581e293e48|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Rosario Central vs UCV (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs UCV (FOX Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=d834e14dbb2f4e8085d6766af02192bf7033e04abbf030e54e5876e3da625c50.1779227196.40009b7ca2bd385a44569de2dabbca4b.3518463d8e4f7152a6fe3792fc6e836d.16e249b7cc1f1227fbb84e0aa7cc31e6&signature=dc363020f526616042fd43692a7eb48c208be510e9fa3a0b6f4973f55a0ae25d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=1ea4295da62abc9f95ecb87b31d262a565b152c32ca329c83d5ee456302277a5.1779228475.0bcb8881ceb3c1f7bc9816b89642e6cf.4ad1ce651d9d18ccb2c44fcb61ca4aee.f08f411acc2bc6e39eed02073fd3f165&signature=45c7db0a4edb836a6dff1f89337f64c4e5afe403ded580d911b0718d3ab0ec24|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Rosario Central vs UCV (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs UCV (beIN SPORTS 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=75b08869c53f3489f7270e69fa969e6b9a8a97e583a91fbabdbc98aaf0975577.1779227197.01765d9128ec45664979605f1b37a2aa.3b24d9b54a1153a96db0b006110200c2.8afe1c7de3614c95aa99df664cb46669&signature=67a3363bb3cf606f7382c7c69ff70b74b2a0ca03b3dcc27459657cce3e1365e4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=1397dbc28a5290220ec714fc5f6942c3ac3f850f6a023c4312fa7c5ec2ebe946.1779228476.843b01736d856cef8ad1516c3193f503.efbae55ee7fb17c1182451369429ba38.8b6c3442c821794d9ebbdba3f347f6ef&signature=c87ee7de6992f21b47c353f7b6cae0790585835b6c8323a25cf6124beda5007f|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=6f6af875b089c5f73351140798743b379d9c82a84fecb6a6fbae8739be2bf716.1779227197.366682cd548ca7fc02356fdd8b4fb7bc.ca21f39092c824e74050e8d9c1a7afca.4897c12cf849650487da497d06546935&signature=65082be3cdbf1da9c762e7be87e3cecaf1bdca768c116da6bf553548f8e17797|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=48d26858d6035847d85d9e27b59ead7ffb69a4d60102bb663fbf8aeecae7334c.1779228477.0465b0c76ce69d653e1000e53d1588bf.67c7a63e73c89dccfd5220f68b66ad01.d8a09e29b7c3800644c67877c318024c&signature=77d5dff07ede7c3cbf7e01c5844ff224ff500354b3ab40450875631fffa14cff|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=9aff6f9256544b2630111e602c37f2584d3b92d800aefae197433a46bc8dea3e.1779227198.5ae4b0bc17aaab38f325e416f2572568.10e6be37f88b82536101757cd02ba119.c012d1f043682f1dcf1894c41b286f32&signature=4711c8739174bef9459c2691ca55e4f50c780353f4ef8a7cbedb492fadf4a7c8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=5a559c3c31d8e4707c137ebb09369ba28270156d9d9e8e8bf1bb892749696034.1779228477.e6c502d863941901fcedc94ddd97357f.e6cac9e86dfcbbe24b1d1275cc9ed024.19a5295b74ec6a892b30ed1934f23dc5&signature=9fbacd9ae562cf54a310a58893c76a365559ec142b1b900ba2248308059bbd93|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=9884c7e220206b539bef33c24895a6818dbf95ca8fda35f10fa7627b37862956.1779227198.7edc2db4e217b72a9610422b9dd4765a.280129ae624cfa36e5465fcaf36cb69f.3bcff967d94e3f718ff658302502c1b9&signature=78211e720fafa8c9ab5e05d22870f55992244c9b2c9bb5e3ee261980fb737d1c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=b57e94280a0c401920cf0fd50fc2aacb6b7aacc4e1fd964e2ae7f9f80965703e.1779228478.efc97da8369276a30bec1e6ace83faaa.58fc525b14462b0ce88fe27877dcc1b3.097ed151e4bb1f93f9c603b788633bcd&signature=c26963f32fcedf899d07ec7d2fbc8136698d8ec466769357d0fb6017662dec81|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=7a17ee6f501c7c2f18b5134f42530f4bc9a6aa364b997e30a61d32494a079633.1779227199.8d66aebc412f3905ba90cc3ee330e3b8.b235f8279d4b9dddab53cd76e1a9f3de.bacf1ebc00f8c841ce2cefb50fe41cc6&signature=70a22cccc6d83aa917a49a450c26aee85380f6008a800a539cc305c3f083d434|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=5f37592f76c4702e4264b04bfb445fd5074fc8d266ddca1e31962492a84f0ff8.1779228479.23f1cc36b086532477b0c42782406dc8.722a87ac217c4dc8cfb36384dd72bbc2.b40e9d31e87121ebca4b3c4ad8ca2385&signature=e99bd53592d53c4301e5589574a7135b9e3ac35b77bb860e0d2580f51f9356dc|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=3fce344d423b5328551fa8b867cdb7cc4dc0de8af30f2fc521b1452b0a8f52db.1779227199.55ee0627eb0957c9b483af62073643e6.063657600df2628176e0daceeeaacbde.652c6d37c1d0505acd2d1a1f539b9b88&signature=1191faf7651e9bb7cd32b8a0ab6ef5f028f29303802aafd3fdced8efd92f2c5d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=06ec694c05ad91599de516a72ec2e3b6eeaad6235c71273f25c09b7690d05e4d.1779228479.459ad669a82430a671ce9932204d5127.9824ca4bebb469e2adf9a173518eb632.553d377726a73c661bb6a9a8f236e90c&signature=f27dcd4b043737bd5e977a3a2a3ec2ba8fd25b350b5213b880d22cccc633002b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=970741e94aafbb89e5882aebe36cfcc8d19411efece6f8cb2ade66df843fcd38.1779227200.3f01c1ebcdedc54d7870aa46a692c7da.0966457a743dc7ec3471ca21825eb96c.24f22f8ff8713c9739ef1635e6cc7731&signature=1fde4dcb60c5605169034c2fdfdf786bbb93ac82edbb62a22c0b387b9eb8f4b3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=73bc6a2228fc0d76f1bc0c3052b9f28b0683fb7235625792d85223f064023200.1779228480.18dcb48532867c94cf4e628da935ebc6.e22f79dbe6ae64e76da57ef1e80a55bf.8141f358d4b7014e22806ee5f3133905&signature=282c55b25f72e4dfaa4ab54392895ebbeb54cb4c359cc7201f0e082c6a84bb6b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=78de192372f59d18a0809451f3880b7e555a6a25a662effd547912304fef2cf1.1779227200.08e53f828a9b4b53ec2830b3fa9b12e7.d1794d990fd641c7c0e7742f00adb134.67db358efa2b3a394768d7533baf16d2&signature=e30e3776a55fec248ef3066a9202daa986d26d40fe4a75d5f64a91ca289b3a97|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=4b76e0b00748ec2815de694b371ebb819ac8f59d9b165d4a66a18c3faec318bd.1779228481.73ae1a792a207e78262136a461e4335c.09f05bfd32e4c891468e7318bde8146f.333542470c1565191e28e02ca85de82b&signature=2842cf1f699b44fc018c21ac731d031423e9f39532be0541852a5939ee2721dd|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=178d8a2d9d545060919a638725a02e4c2d196ac1e4bd155b1ac0457c1a62cdc6.1779227201.d0bd52cf1dad17d6d92eddf2a35ac92b.89f0157269e4a309d626db487d8097c2.a6af8fb62f518958114a092c74fba4f6&signature=84481bccf132139e64bb640cf31ebccf71a141e25c2c57db15f1e3955ed86e34|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=bba3425062d3feabcee1292f4341bcd74d62fc001635bf8b132d2498869ad2f6.1779228481.9a04dde01d3dcac49a9681d5db5ba1bc.e01867f9979105ee59684a8e616b1d25.ac94fc598bb460ed244e76b7b29b250f&signature=026d82de992f010a5f670205695cc801a2af4771bd7bf67f11c8518b349da517|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=73b4f101be57fb4b55c94780a60f1f653562c166224ad35f16252b08b96e9aeb.1779227201.fbd368ad06491b218b5c01e2c2b48200.6288856a8c73acb4071054aa462b41c6.02a6d610be7f759dced1c60c3b05f185&signature=e9aaf67c2f7893bbf1f66930d62f591b36e3f3eca7ef94a96d57ef307567babc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=0cff434e6281b1019437c80b5e7ab7ab68bbb24090a7c5415fea5c5fd1ffdb48.1779228482.9540a8782e2f018b827928ccd0890e2e.b7d823f38fd6c2925eb1a03377f45f56.0596cac795e7662f7c1037e5ef1753f6&signature=e3839ee326cb3d56269793edd06b4d445eb85ffdd7e9b601265f658eb876213b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=53a9c1ddcc421c2e9bc2aff06b94da6e37730fed1acf431c819242bf71c46111.1779227202.952b6c6af8469e415c1d12ec33b3b413.f021c8ef60cc476014488d53c9e137b4.018aa54eaf4a1445fb230152b9f446e0&signature=a360a401380d8273352a28fee3074f16a9afef92a48f64b5085e6fd61689ec5f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a44f3ca3596eec08d7bbe301424267659a65197d8e511495ae0a57f8fcebef7f.1779228483.0c37071da9168b5b41ba12bb814da0c6.d81de1cfff32bc60d92b977cf9b2c1d8.a9e65524d3677fa27f2d90cb223e0684&signature=7a33b2c846af29a979f408cf977944bc839626ac1a9c7cb0c470a5338065d66a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=7919abaf15f3e9145e680a245daab84836d2428234767ff15de921d9e9553dc8.1779227202.ed20d9f1255f4114a6a3b1055a1153fd.12b7b76f2b047256efdedba6f79216a3.bccd8083bc8af11b513d50bf8045b4bc&signature=04a14a5e9cce1ac91095cdc62ef8df3c3ab5e8310380fe0b51b13ff8c88dfc93|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=2f6226122ff55d676585e425d6120e2c2ef6643dd7324bf64cd7e0396165733f.1779228483.fcab4bde4aa0dcf3c4e92a16c7d88c61.dcf4391b6ac3f0c7f7fcab7e9cbfd202.be501c075b397fb8aedda2a20eda580e&signature=1a654e732b4406cc6a8cfc4496a8ee44063a69469ab7217d9d2777bfdf8563ce|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=b0cbe92bee892d43e9d12558ebf8b27685ce302a07c61d9b21fa333212bd1c25.1779227203.98c1fac128fab71d926c63cdd994ae43.1686d579bcfd3346dabb58debb9a6ecd.c9d8aa04e452f2a76dd0458f45438c3f&signature=dff96eaae845c4257208659ddb93889b0ffb1b9f4fed9eb2ed0585f96012ea14|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=3989cf9127f7046eaf800f6060c10683e9a7a60bb1d1e8ebee53877502c15ab4.1779228484.d0c269058609d2620faf0a64e1bf20f7.dd8bbd4a9048e13903a21dd22b2d1419.942568b3c41d141113503a58e04c09db&signature=8c582f9d9d28eceff5234ced516b6e679046963c1d8957a5ea2473cde15bc55a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b351d032561128af7980519d6457ad6f93b998a85d1c343d62773f4fd930b5c9.1779227203.b01a148247d94661126291f7f9d146fb.18e1a4b16d90c087ba64f4c6ab61886a.75393cfbf7a78129d8603205a084f016&signature=8e36e865bc9e90634a5f57dbfe7fb2d662301a7fda45d5f616bda4c6acd1c2bc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6e2930cf656b7e8653c0036f0e09049cb5f3563c98a92cb56537613859ac38fe.1779228484.35169e0c00538cd814fc91509e809120.61e7cd98583c248a7aebdaed011c030b.38c2a75f53241a6730440c0b347668f5&signature=00c7b7522e4573866490a1aa8c2880bf2509f50d021db9c90dc314f4b6314124|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=57f67c9c920834eb774158fcf9799f33ec1e2737a3f2aaae2af6bd07ab332a39.1779227204.e557c374e861ef3be6a1850b3c81fb8d.bc75da8823a2810d21d3ac1b6d066ee9.06ab82f242ef5e3fb9ab23fac2aeae23&signature=55341b0bac2f7721d1627fd074ebef87c67d94fde6decc46f65d913d27835cb3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=181a1295a62ae5f7ec7c6cc20a49aeeebca3489d4e883ab8898b7de22cbf8d61.1779228485.f6e2118b3d47c22bd65eb11c1f8ed698.8497450342ae4624e176114c1a790e03.77646959475d28a542eaaadff000a61c&signature=0049d0e11141aa38bb192eb41c3b070feb64f7e0350b948d0617b36098183a4b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=227ec20acb8305ec66f2951cc89f1bca9ef2a9496e2719f1f65737c96f1623a1.1779227204.d9b68362a86f76948618034d463ccb1b.76dbe43bffe9ad7639b837c7b76c565a.3bf798c25452eee0ef580817ce215d8c&signature=56167a210f385709d341914757583aa6ac0bb66a53c765866a17c5d438000029|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=814bca3f33adc4ed10de90fd02b69cd35d783cf968afd2e790150c4dca049725.1779228486.b13a69b962a617339666d63c1ba39131.afe8fcb758342332136dcbd146ff62b7.4191edc77530fe70487c4bae910ce903&signature=144824891166f4fc9403d2769f1b4c98ed0090c3bebc9291963950763e52b336|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Lucknow Super Giants vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=5756028949c85cb45245bd05731e82aaad9a671bdf498b090c6b0b3e81e55a7d.1779227204.3dc9b5fe9c7a06641b92c9ea1627a0ff.68f0f1a89a73055f7ec7b213ba3ba4c3.5042fc2093f31328cc25245f280a9f37&signature=05bac1b739be9da755e6597546dc6ef6d21eca6a5301aecae9b56b57d828d90c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=151df5f065155cfbcb325790d58ce4896c12bef633bceff5570874674c4fc0ee.1779228486.a460dfefcea6abb37900c29cf00282ac.2c82e074bef06fb3524b9846b6f2e15f.ec299f301d3542dfccd37326c7e88fc7&signature=d03d8883818e6407791b6ec5e8fff818f90a6b09ad0f7a9489d05b0452812466|x-forwarded-for:77.238.79.111
 
