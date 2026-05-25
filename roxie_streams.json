@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-25T12:56:16+00:00",
+  "scraped_at": "2026-05-25T18:30:39+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -93,6 +93,29 @@
               "away": "Wolfsburg"
             },
             "display_name": "Paderborn vs Wolfsburg - Stream 1"
+          },
+          {
+            "label": "Stream 2 (GERMAN)",
+            "url": "https://601.shadow-ran.online/skyde.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "skyde.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Paderborn vs Wolfsburg",
+            "matchup": {
+              "home": "Paderborn",
+              "away": "Wolfsburg"
+            },
+            "display_name": "Paderborn vs Wolfsburg - Stream 2 (GERMAN)"
           }
         ]
       },
@@ -1291,6 +1314,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
+        "Stream 2 (GERMAN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3079,6 +3103,29 @@
           "display_name": "Paderborn vs Wolfsburg - Stream 1"
         },
         {
+          "label": "Stream 2 (GERMAN)",
+          "url": "https://601.shadow-ran.online/skyde.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "skyde.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Paderborn vs Wolfsburg",
+          "matchup": {
+            "home": "Paderborn",
+            "away": "Wolfsburg"
+          },
+          "display_name": "Paderborn vs Wolfsburg - Stream 2 (GERMAN)"
+        },
+        {
           "label": "Stream 1",
           "url": "https://601.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
@@ -3950,7 +3997,7 @@
       ]
     }
   },
-  "stream_count": 40,
+  "stream_count": 41,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
