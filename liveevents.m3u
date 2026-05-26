@@ -1,7 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Coritiba vs Bahia (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1982.png" group-title="Soccer",[Soccer] Coritiba vs Bahia (Match Football 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=c286c7d488e5747116255d20393420471b86a5a1b72059df0af9cc4ae1e420c8.1779756509.2975775c40795ec879c7ba954f69bd7b.383afabe5c2eb607ffeda674a1e901dd.25c4d6e58657d74c39a30a6839f2f385&signature=078986ed0f9336dbda8bfd035bee4676db1be397c56e59856bb7feb441b1a57d|x-forwarded-for:77.238.79.111
-
